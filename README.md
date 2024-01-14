@@ -1,7 +1,7 @@
 
-Iago Gordo Otero: iago.gordo@cunef.edu --> https://github.com/IagoGordo/Practica-Final.git
+Iago Gordo Otero: iago.gordo@cunef.edu --> https://github.com/IagoGordo/practica-gams.git
 
-Jose María Vega Ramiro: jose.vega@cunef.edu --> https://github.com/pepevega99/Practica-Final.git
+Jose María Vega Ramiro: jose.vega@cunef.edu -->https://github.com/pepevega99/GAMS.git
 
 # General Algebraic Modeling System (GAMS)
 
